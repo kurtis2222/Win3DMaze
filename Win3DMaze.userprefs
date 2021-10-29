@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerCtrl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerCtrl.cs" Line="246" Column="2" />
+      <File FileName="Assets\Scripts\MenuScript.cs" Line="178" Column="2" />
+      <File FileName="Assets\Scripts\GameControl.cs" Line="26" Column="22" />
+      <File FileName="Assets\Scripts\AssetLoader.cs" Line="151" Column="5" />
+      <File FileName="Assets\Scripts\GameBase.cs" Line="36" Column="32" />
+      <File FileName="Assets\Scripts\HSVMover.cs" Line="22" Column="36" />
+      <File FileName="Assets\Scripts\MenuControl.cs" Line="16" Column="3" />
+      <File FileName="Assets\Scripts\MouseLook.cs" Line="18" Column="32" />
+      <File FileName="Assets\Scripts\MapIcon3.cs" Line="18" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
