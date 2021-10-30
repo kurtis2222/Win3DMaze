@@ -6,9 +6,3 @@
 ### To Edit resources
 - 3d model editor that supports 3DS MAX 2010 **MAX** files
 - Image editor that supports **PNG, TGA**
-
-## Folders and Files
-### RamboFirst
-#### Work folder
-- Models (max)
-- Textures (png, tga)
